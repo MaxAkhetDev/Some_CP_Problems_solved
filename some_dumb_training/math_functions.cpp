@@ -25,7 +25,7 @@ using namespace std;
 
 void main (){
     int x;
-    cin << x;
+    cin <<x;
     //cout>>fibonacci(x);
 }
 
